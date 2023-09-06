@@ -1,0 +1,101 @@
+Marvel_ID, Marvel_Character_Name, Marvel_Creation_Year, Marvel_Alter_Ego, Marvel_Origin, Marvel_Team, Marvel_Strength, Marvel_Speed, Marvel_Archenemy, DC_Variant, DC_ID, DC_Character_Name, DC_Creation_Year, DC_Alter_Ego, DC_Origin, DC_Team, DC_Strength, DC_Speed, DC_Archenemy, Marvel_Variant
+1, Iron Man, 1963, Tony Stark, New York City, The Avengers, 10, 300, The Mandarin, Batman, 101, Batman, 1939, Bruce Wayne, Gotham City, Justice League, 9, 250, The Joker, Iron Man
+2, Spider-Man, 1962, Peter Parker, New York City, None, 8, 200, Green Goblin, Superman, 102, Superman, 1938, Clark Kent, Smallville, Justice League, 10, 300, Lex Luthor, Spider-Man
+3, Thor, 1962, Thor Odinson, Asgard, The Avengers, 12, 500, Loki, Wonder Woman, 103, Wonder Woman, 1941, Diana Prince, Themyscira, Justice League, 11, 400, Ares, Thor
+4, Hulk, 1962, Bruce Banner, Dayton, Ohio, The Avengers, 15, 400, Abomination, The Flash, 104, The Flash, 1940, Barry Allen, Central City, Justice League, 9, 350, Reverse-Flash, Hulk
+5, Captain America, 1941, Steve Rogers, Brooklyn, The Avengers, 10, 250, Red Skull, Aquaman, 105, Aquaman, 1941, Arthur Curry, Atlantis, Justice League, 11, 300, Black Manta, Captain America
+6, Black Widow, 1964, Natasha Romanoff, Moscow, The Avengers, 8, 200, Taskmaster, Batwoman, 106, Batwoman, 1956, Kate Kane, Gotham City, Justice League Dark, 8, 250, Scarecrow, Black Widow
+7, Wolverine, 1974, Logan, Alberta, Canada, X-Men, 11, 280, Sabretooth, Green Lantern, 107, Green Lantern, 1940, Hal Jordan, Coast City, Green Lantern Corps, 10, 350, Sinestro, Wolverine
+8, Storm, 1975, Ororo Munroe, Cairo, Egypt, X-Men, 9, 350, Magneto, Supergirl, 108, Supergirl, 1959, Kara Zor-El, Krypton, Justice League, 10, 320, Darkseid, Storm
+9, Daredevil, 1964, Matt Murdock, Hell's Kitchen, The Defenders, 8, 220, Kingpin, Green Arrow, 109, Green Arrow, 1941, Oliver Queen, Star City, Justice League, 8, 280, Deathstroke, Daredevil
+10, Jean Grey, 1963, Jean Grey-Summers, Annandale-on-Hudson, X-Men, 9, 270, Magneto, Zatanna, 110, Zatanna, 1964, Zatanna Zatara, Salem, Justice League Dark, 8, 300, Felix Faust, Jean Grey
+11, Deadpool, 1991, Wade Wilson, New York City, X-Force, 9, 280, Cable, Catwoman, 111, Catwoman, 1940, Selina Kyle, Gotham City, None, 8, 260, Batman, Deadpool
+12, Wonder Woman, 1941, Diana Prince, Themyscira, Justice League, 11, 350, Ares, Thor, 112, Thor, 1962, Thor Odinson, Asgard, The Avengers, 12, 500, Loki, Wonder Woman
+13, Flash, 1956, Barry Allen, Central City, Justice League, 10, 320, Reverse-Flash, Spider-Man, 113, Spider-Man, 1962, Peter Parker, New York City, None, 8, 200, Green Goblin, Flash
+14, Aquaman, 1941, Arthur Curry, Atlantis, Justice League, 11, 300, Black Manta, Captain America, 114, Captain America, 1941, Steve Rogers, Brooklyn, The Avengers, 10, 250, Red Skull, Aquaman
+15, Batwoman, 1956, Kate Kane, Gotham City, Justice League Dark, 8, 250, Scarecrow, Black Widow, 115, Black Widow, 1964, Natasha Romanoff, Moscow, The Avengers, 8, 200, Taskmaster, Batwoman
+16, Green Lantern, 1940, Hal Jordan, Coast City, Green Lantern Corps, 10, 350, Sinestro, Wolverine, 116, Wolverine, 1974, Logan, Alberta, Canada, X-Men, 11, 280, Sabretooth, Green Lantern
+17, Supergirl, 1959, Kara Zor-El, Krypton, Justice League, 10, 320, Darkseid, Storm, 117, Storm, 1975, Ororo Munroe, Cairo, Egypt, X-Men, 9, 350, Magneto, Supergirl
+18, Green Arrow, 1941, Oliver Queen, Star City, Justice League, 8, 280, Deathstroke, Daredevil, 118, Daredevil, 1964, Matt Murdock, Hell's Kitchen, The Defenders, 8, 220, Kingpin, Green Arrow
+19, Zatanna, 1964, Zatanna Zatara, Salem, Justice League Dark, 8, 300, Felix Faust, Jean Grey, 119, Jean Grey, 1963, Jean Grey-Summers, Annandale-on-Hudson, X-Men, 9, 270, Magneto, Zatanna
+20, Hulk, 1962, Bruce Banner, Dayton, Ohio, The Avengers, 15, 400, Abomination, The Flash, 120, The Flash, 1956, Barry Allen, Central City, Justice League, 10, 320, Reverse-Flash, Hulk
+21, Black Panther, 1966, T'Challa, Wakanda, The Avengers, 11, 320, Killmonger, Green Lantern, 121, Green Lantern, 1940, Hal Jordan, Coast City, Green Lantern Corps, 10, 350, Sinestro, Black Panther
+22, Doctor Strange, 1963, Stephen Strange, New York City, The Defenders, 9, 280, Dormammu, Cyborg, 122, Cyborg, 1980, Victor Stone, Detroit, Justice League, 9, 280, Deathstroke, Doctor Strange
+23, Ant-Man, 1962, Hank Pym, New York City, The Avengers, 8, 180, Yellowjacket, Shazam, 123, Shazam, 1939, Billy Batson, Fawcett City, Justice League, 10, 350, Black Adam, Ant-Man
+24, Rogue, 1981, Anna Marie, Caldecott County, Mississippi, X-Men, 10, 260, Mystique, Batgirl, 124, Batgirl, 1967, Barbara Gordon, Gotham City, Birds of Prey, 8, 250, The Joker, Rogue
+25, Scarlet Witch, 1964, Wanda Maximoff, Wundagore Mountain, The Avengers, 9, 280, Magneto, Martian Manhunter, 125, Martian Manhunter, 1955, J'onn J'onzz, Mars, Justice League, 12, 400, Lex Luthor, Scarlet Witch
+26, Luke Cage, 1972, Carl Lucas, Harlem, New York City, The Defenders, 10, 250, Diamondback, Bane, 126, Bane, 1993, Unknown, Santa Prisca, None, 14, 350, Batman, Luke Cage
+27, Captain Marvel, 1967, Carol Danvers, Boston, Massachusetts, The Avengers, 10, 300, Ronan the Accuser, Aquaman, 127, Aquaman, 1941, Arthur Curry, Atlantis, Justice League, 11, 300, Black Manta, Captain Marvel
+28, Nightwing, 1963, Dick Grayson, Gotham City, Birds of Prey, 9, 280, Deathstroke, Gambit, 128, Gambit, 1990, Remy LeBeau, New Orleans, X-Men, 9, 280, Mr. Sinister, Nightwing
+29, Jean Grey, 1963, Jean Grey-Summers, Annandale-on-Hudson, X-Men, 9, 270, Magneto, Zatanna, 129, Zatanna, 1964, Zatanna Zatara, Salem, Justice League Dark, 8, 300, Felix Faust, Jean Grey
+30, Black Canary, 1947, Dinah Drake, Gotham City, Birds of Prey, 8, 240, Ra's al Ghul, Daredevil, 130, Daredevil, 1964, Matt Murdock, Hell's Kitchen, The Defenders, 8, 220, Kingpin, Black Canary
+31, Green Goblin, 1964, Norman Osborn, New York City, Sinister Six, 8, 220, Spider-Man, Green Arrow, 131, Green Arrow, 1941, Oliver Queen, Star City, Justice League, 8, 280, Deathstroke, Green Goblin
+32, Supergirl, 1959, Kara Zor-El, Krypton, Justice League, 10, 320, Darkseid, Captain America, 132, Captain America, 1941, Steve Rogers, Brooklyn, The Avengers, 10, 250, Red Skull, Supergirl
+33, Red Hood, 1951, Jason Todd, Gotham City, The Outlaws, 9, 260, Batman, Venom, 133, Venom, 1984, Eddie Brock, New York City, None, 11, 300, Spider-Man, Red Hood
+34, Hawkeye, 1964, Clint Barton, Waverly, Iowa, The Avengers, 8, 250, Bullseye, The Flash, 134, The Flash, 1956, Barry Allen, Central City, Justice League, 10, 320, Reverse-Flash, Hawkeye
+35, Catwoman, 1940, Selina Kyle, Gotham City, None, 8, 240, Batman, Rogue, 135, Rogue, 1981, Anna Marie, Caldecott County, Mississippi, X-Men, 10, 260, Mystique, Catwoman
+36, Daredevil, 1964, Matt Murdock, Hell's Kitchen, The Defenders, 8, 220, Kingpin, Nightwing, 136, Nightwing, 1963, Dick Grayson, Gotham City, Birds of Prey, 9, 280, Deathstroke, Daredevil
+37, Deadpool, 1991, Wade Wilson, New York City, X-Force, 9, 280, Cable, Batwoman, 137, Batwoman, 1956, Kate Kane, Gotham City, Justice League Dark, 8, 250, Scarecrow, Deadpool
+38, Storm, 1975, Ororo Munroe, Cairo, Egypt, X-Men, 9, 350, Magneto, Martian Manhunter, 138, Martian Manhunter, 1955, J'onn J'onzz, Mars, Justice League, 12, 400, Lex Luthor, Storm
+39, Doctor Strange, 1963, Stephen Strange, New York City, The Defenders, 9, 280, Dormammu, Cyborg, 139, Cyborg, 1980, Victor Stone, Detroit, Justice League, 9, 280, Deathstroke, Doctor Strange
+40, Black Widow, 1964, Natasha Romanoff, Moscow, The Avengers, 8, 200, Taskmaster, Supergirl, 140, Supergirl, 1959, Kara Zor-El, Krypton, Justice League, 10, 320, Darkseid, Black Widow
+41, Green Arrow, 1941, Oliver Queen, Star City, Justice League, 8, 280, Deathstroke, Black Canary, 141, Black Canary, 1947, Dinah Drake, Gotham City, Birds of Prey, 8, 240, Ra's al Ghul, Green Arrow
+42, Zatanna, 1964, Zatanna Zatara, Salem, Justice League Dark, 8, 300, Felix Faust, Ant-Man, 142, Ant-Man, 1962, Hank Pym, New York City, The Avengers, 8, 180, Yellowjacket, Zatanna
+43, Red Hood, 1951, Jason Todd, Gotham City, The Outlaws, 9, 260, Batman, Batgirl, 143, Batgirl, 1967, Barbara Gordon, Gotham City, Birds of Prey, 8, 250, The Joker, Red Hood
+44, Wolverine, 1974, Logan, Alberta, Canada, X-Men, 11, 280, Sabretooth, Wonder Woman, 144, Wonder Woman, 1941, Diana Prince, Themyscira, Justice League, 11, 350, Ares, Wolverine
+45, Scarlet Witch, 1964, Wanda Maximoff, Wundagore Mountain, The Avengers, 9, 280, Magneto, Aquaman, 145, Aquaman, 1941, Arthur Curry, Atlantis, Justice League, 11, 300, Black Manta, Scarlet Witch
+46, Doctor Strange, 1963, Stephen Strange, New York City, The Defenders, 9, 280, Dormammu, Black Panther, 146, Black Panther, 1966, T'Challa, Wakanda, The Avengers, 11, 320, Killmonger, Doctor Strange
+47, Luke Cage, 1972, Carl Lucas, Harlem, New York City, The Defenders, 10, 250, Diamondback, Green Lantern, 147, Green Lantern, 1940, Hal Jordan, Coast City, Green Lantern Corps, 10, 350, Sinestro, Luke Cage
+48, Ant-Man, 1962, Hank Pym, New York City, The Avengers, 8, 180, Yellowjacket, Red Hood, 148, Red Hood, 1951, Jason Todd, Gotham City, The Outlaws, 9, 260, Batman, Ant-Man
+49, Rogue, 1981, Anna Marie, Caldecott County, Mississippi, X-Men, 10, 260, Mystique, Flash, 149, Flash, 1956, Barry Allen, Central City, Justice League, 10, 320, Reverse-Flash, Rogue
+50, Storm, 1975, Ororo Munroe, Cairo, Egypt, X-Men, 9, 350, Magneto, Black Widow, 150, Black Widow, 1964, Natasha Romanoff, Moscow, The Avengers, 8, 200, Taskmaster, Storm
+51, Nightwing, 1963, Dick Grayson, Gotham City, Birds of Prey, 9, 280, Deathstroke, Deadpool, 151, Deadpool, 1991, Wade Wilson, New York City, X-Force, 9, 280, Cable, Nightwing
+52, Black Panther, 1966, T'Challa, Wakanda, The Avengers, 11, 320, Killmonger, Catwoman, 152, Catwoman, 1940, Selina Kyle, Gotham City, None, 8, 240, Batman, Black Panther
+53, Doctor Strange, 1963, Stephen Strange, New York City, The Defenders, 9, 280, Dormammu, Daredevil, 153, Daredevil, 1964, Matt Murdock, Hell's Kitchen, The Defenders, 8, 220, Kingpin, Doctor Strange
+54, Batwoman, 1956, Kate Kane, Gotham City, Justice League Dark, 8, 250, Scarecrow, Wolverine, 154, Wolverine, 1974, Logan, Alberta, Canada, X-Men, 11, 280, Sabretooth, Batwoman
+55, Green Lantern, 1940, Hal Jordan, Coast City, Green Lantern Corps, 10, 350, Sinestro, Deadpool, 155, Deadpool, 1991, Wade Wilson, New York City, X-Force, 9, 280, Cable, Green Lantern
+56, Supergirl, 1959, Kara Zor-El, Krypton, Justice League, 10, 320, Darkseid, Spider-Man, 156, Spider-Man, 1962, Peter Parker, New York City, None, 8, 200, Green Goblin, Supergirl
+57, Black Canary, 1947, Dinah Drake, Gotham City, Birds of Prey, 8, 240, Ra's al Ghul, Ant-Man, 157, Ant-Man, 1962, Hank Pym, New York City, The Avengers, 8, 180, Yellowjacket, Black Canary
+58, Red Hood, 1951, Jason Todd, Gotham City, The Outlaws, 9, 260, Batman, Wonder Woman, 158, Wonder Woman, 1941, Diana Prince, Themyscira, Justice League, 11, 350, Ares, Red Hood
+59, Luke Cage, 1972, Carl Lucas, Harlem, New York City, The Defenders, 10, 250, Diamondback, Aquaman, 159, Aquaman, 1941, Arthur Curry, Atlantis, Justice League, 11, 300, Black Manta, Luke Cage
+60, Storm, 1975, Ororo Munroe, Cairo, Egypt, X-Men, 9, 350, Magneto, Scarlet Witch, 160, Scarlet Witch, 1964, Wanda Maximoff, Wundagore Mountain, The Avengers, 9, 280, Magneto, Storm
+61, Green Goblin, 1964, Norman Osborn, New York City, Sinister Six, 8, 220, Spider-Man, Green Arrow, 161, Green Arrow, 1941, Oliver Queen, Star City, Justice League, 8, 280, Deathstroke, Green Goblin
+62, Supergirl, 1959, Kara Zor-El, Krypton, Justice League, 10, 320, Darkseid, Captain America, 162, Captain America, 1941, Steve Rogers, Brooklyn, The Avengers, 10, 250, Red Skull, Supergirl
+63, Red Hood, 1951, Jason Todd, Gotham City, The Outlaws, 9, 260, Batman, Venom, 163, Venom, 1984, Eddie Brock, New York City, None, 11, 300, Spider-Man, Red Hood
+64, Hawkeye, 1964, Clint Barton, Waverly, Iowa, The Avengers, 8, 250, Bullseye, The Flash, 164, The Flash, 1956, Barry Allen, Central City, Justice League, 10, 320, Reverse-Flash, Hawkeye
+65, Catwoman, 1940, Selina Kyle, Gotham City, None, 8, 240, Batman, Rogue, 165, Rogue, 1981, Anna Marie, Caldecott County, Mississippi, X-Men, 10, 260, Mystique, Catwoman
+66, Daredevil, 1964, Matt Murdock, Hell's Kitchen, The Defenders, 8, 220, Kingpin, Nightwing, 166, Nightwing, 1963, Dick Grayson, Gotham City, Birds of Prey, 9, 280, Deathstroke, Daredevil
+67, Deadpool, 1991, Wade Wilson, New York City, X-Force, 9, 280, Cable, Batwoman, 167, Batwoman, 1956, Kate Kane, Gotham City, Justice League Dark, 8, 250, Scarecrow, Deadpool
+68, Storm, 1975, Ororo Munroe, Cairo, Egypt, X-Men, 9, 350, Magneto, Martian Manhunter, 168, Martian Manhunter, 1955, J'onn J'onzz, Mars, Justice League, 12, 400, Lex Luthor, Storm
+69, Doctor Strange, 1963, Stephen Strange, New York City, The Defenders, 9, 280, Dormammu, Cyborg, 169, Cyborg, 1980, Victor Stone, Detroit, Justice League, 9, 280, Deathstroke, Doctor Strange
+70, Black Widow, 1964, Natasha Romanoff, Moscow, The Avengers, 8, 200, Taskmaster, Supergirl, 170, Supergirl, 1959, Kara Zor-El, Krypton, Justice League, 10, 320, Darkseid, Black Widow
+71, Green Arrow, 1941, Oliver Queen, Star City, Justice League, 8, 280, Deathstroke, Black Canary, 171, Black Canary, 1947, Dinah Drake, Gotham City, Birds of Prey, 8, 240, Ra's al Ghul, Green Arrow
+72, Zatanna, 1964, Zatanna Zatara, Salem, Justice League Dark, 8, 300, Felix Faust, Ant-Man, 172, Ant-Man, 1962, Hank Pym, New York City, The Avengers, 8, 180, Yellowjacket, Zatanna
+73, Red Hood, 1951, Jason Todd, Gotham City, The Outlaws, 9, 260, Batman, Batgirl, 173, Batgirl, 1967, Barbara Gordon, Gotham City, Birds of Prey, 8, 250, The Joker, Red Hood
+74, Wolverine, 1974, Logan, Alberta, Canada, X-Men, 11, 280, Sabretooth, Wonder Woman, 174, Wonder Woman, 1941, Diana Prince, Themyscira, Justice League, 11, 350, Ares, Wolverine
+75, Scarlet Witch, 1964, Wanda Maximoff, Wundagore Mountain, The Avengers, 9, 280, Magneto, Aquaman, 175, Aquaman, 1941, Arthur Curry, Atlantis, Justice League, 11, 300, Black Manta, Scarlet Witch
+76, Doctor Strange, 1963, Stephen Strange, New York City, The Defenders, 9, 280, Dormammu, Black Panther, 176, Black Panther, 1966, T'Challa, Wakanda, The Avengers, 11, 320, Killmonger, Doctor Strange
+77, Luke Cage, 1972, Carl Lucas, Harlem, New York City, The Defenders, 10, 250, Diamondback, Green Lantern, 177, Green Lantern, 1940, Hal Jordan, Coast City, Green Lantern Corps, 10, 350, Sinestro, Luke Cage
+78, Ant-Man, 1962, Hank Pym, New York City, The Avengers, 8, 180, Yellowjacket, Red Hood, 178, Red Hood, 1951, Jason Todd, Gotham City, The Outlaws, 9, 260, Batman, Ant-Man
+79, Rogue, 1981, Anna Marie, Caldecott County, Mississippi, X-Men, 10, 260, Mystique, Flash, 179, Flash, 1956, Barry Allen, Central City, Justice League, 10, 320, Reverse-Flash, Rogue
+80, Storm, 1975, Ororo Munroe, Cairo, Egypt, X-Men, 9, 350, Magneto, Black Widow, 180, Black Widow, 1964, Natasha Romanoff, Moscow, The Avengers, 8, 200, Taskmaster, Storm
+81, Nightwing, 1963, Dick Grayson, Gotham City, Birds of Prey, 9, 280, Deathstroke, Deadpool, 181, Deadpool, 1991, Wade Wilson, New York City, X-Force, 9, 280, Cable, Nightwing
+82, Black Panther, 1966, T'Challa, Wakanda, The Avengers, 11, 320, Killmonger, Catwoman, 182, Catwoman, 1940, Selina Kyle, Gotham City, None, 8, 240, Batman, Black Panther
+83, Doctor Strange, 1963, Stephen Strange, New York City, The Defenders, 9, 280, Dormammu, Daredevil, 183, Daredevil, 1964, Matt Murdock, Hell's Kitchen, The Defenders, 8, 220, Kingpin, Doctor Strange
+84, Batwoman, 1956, Kate Kane, Gotham City, Justice League Dark, 8, 250, Scarecrow, Wolverine, 184, Wolverine, 1974, Logan, Alberta, Canada, X-Men, 11, 280, Sabretooth, Batwoman
+85, Green Lantern, 1940, Hal Jordan, Coast City, Green Lantern Corps, 10, 350, Sinestro, Deadpool, 185, Deadpool, 1991, Wade Wilson, New York City, X-Force, 9, 280, Cable, Green Lantern
+86, Supergirl, 1959, Kara Zor-El, Krypton, Justice League, 10, 320, Darkseid, Captain America, 186, Captain America, 1941, Steve Rogers, Brooklyn, The Avengers, 10, 250, Red Skull, Supergirl
+87, Black Canary, 1947, Dinah Drake, Gotham City, Birds of Prey, 8, 240, Ra's al Ghul, Ant-Man, 187, Ant-Man, 1962, Hank Pym, New York City, The Avengers, 8, 180, Yellowjacket, Black Canary
+88, Red Hood, 1951, Jason Todd, Gotham City, The Outlaws, 9, 260, Batman, Wonder Woman, 188, Wonder Woman, 1941, Diana Prince, Themyscira, Justice League, 11, 350, Ares, Red Hood
+89, Luke Cage, 1972, Carl Lucas, Harlem, New York City, The Defenders, 10, 250, Diamondback, Aquaman, 189, Aquaman, 1941, Arthur Curry, Atlantis, Justice League, 11, 300, Black Manta, Luke Cage
+90, Storm, 1975, Ororo Munroe, Cairo, Egypt, X-Men, 9, 350, Magneto, Scarlet Witch, 190, Scarlet Witch, 1964, Wanda Maximoff, Wundagore Mountain, The Avengers, 9, 280, Magneto, Storm
+91, Green Goblin, 1964, Norman Osborn, New York City, Sinister Six, 8, 220, Spider-Man, Green Arrow, 196, Green Arrow, 1941, Oliver Queen, Star City, Justice League, 8, 280, Deathstroke, Green Goblin
+92, Supergirl, 1959, Kara Zor-El, Krypton, Justice League, 10, 320, Darkseid, Captain America, 197, Captain America, 1941, Steve Rogers, Brooklyn, The Avengers, 10, 250, Red Skull, Supergirl
+93, Red Hood, 1951, Jason Todd, Gotham City, The Outlaws, 9, 260, Batman, Venom, 198, Venom, 1984, Eddie Brock, New York City, None, 11, 300, Spider-Man, Red Hood
+94, Hawkeye, 1964, Clint Barton, Waverly, Iowa, The Avengers, 8, 250, Bullseye, The Flash, 199, The Flash, 1956, Barry Allen, Central City, Justice League, 10, 320, Reverse-Flash, Hawkeye
+95, Catwoman, 1940, Selina Kyle, Gotham City, None, 8, 240, Batman, Rogue, 200, Rogue, 1981, Anna Marie, Caldecott County, Mississippi, X-Men, 10, 260, Mystique, Catwoman
+96, Sol de Plata, 2018, Luca Bianchi, Buenos Aires, Argentina, Unión Sudamericana, 10, 320, el Inquisidor, Sol de Plata, 201, Green Lantern, 1940, Hal Jordan, Coast City, Green Lantern Corps, 10, 350, Sinestro, Sol de Plata
+97, Lagarto Negro, 2019, Rafael Silva, Río de Janeiro, Brasil, Unión Sudamericana, 9, 300, el Inquisidor, Lagarto Negro, 202, Black Canary, 1947, Dinah Drake, Gotham City, Birds of Prey, 8, 240, Ra's al Ghul, Lagarto Negro
+98, Espinas, 2020, Valentina Mendoza, Santiago, Chile, Unión Sudamericana, 8, 280, el Inquisidor, Espinas, 203, Doctor Strange, 1963, Stephen Strange, New York City, The Defenders, 9, 280, Dormammu, Espinas
+99, Fiero, 2020, Miguel Rojas, Asunción, Paraguay, Unión Sudamericana, 9, 280, el Inquisidor, Fiero, 204, Luke Cage, 1972, Carl Lucas, Harlem, New York City, The Defenders, 10, 250, Diamondback, Fiero
+100, Descomunal, 2020, Alejandro Vargas, Lima, Perú, Unión Sudamericana, 14, 450, el Inquisidor, Descomunal, 205, Scarlet Witch, 1964, Wanda Maximoff, Wundagore Mountain, The Avengers, 9, 280, Magneto, Descomunal
